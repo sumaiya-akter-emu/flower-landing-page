@@ -9,7 +9,9 @@ A beautiful, modern, and fully responsive landing page for a floral arrangements
 
 ## 📸 Screenshot
 
-![Flower Landing Page Screenshot](flower-landing-page.png)
+<a href="https://github.com/sumaiya-akter-emu/flower-landing-page/blob/main/flower-landing-page.png" target="_blank">
+  <img src="https://github.com/sumaiya-akter-emu/flower-landing-page/blob/main/flower-landing-page.png" width="200"/>
+</a>
 
 ## 🔗 Live Demo
 
@@ -192,4 +194,5 @@ This project is open source and available under the <a href="LICENSE" target="_b
 ---
 
 Made with ❤️ and lots of 🌸
+
 
