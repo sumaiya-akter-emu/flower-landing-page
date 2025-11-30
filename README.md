@@ -15,7 +15,7 @@ A beautiful, modern, and fully responsive landing page for a floral arrangements
 
 ## 🔗 Live Demo
 
-live project here:<a href="https://sumaiya-akter-emu.github.io/flower-landing-page/" target="_blank" rel="noopener noreferrer">View Live Demo</a>
+live project here: <a href="https://sumaiya-akter-emu.github.io/flower-landing-page/" target="_blank" rel="noopener noreferrer">View Live Demo</a>
 
 ## ✨ Features
 
@@ -194,6 +194,7 @@ This project is open source and available under the <a href="LICENSE" target="_b
 ---
 
 Made with ❤️ and lots of 🌸
+
 
 
 
